@@ -4,7 +4,9 @@ This is a reimplementation of the serial execution (not the parallel) (and not r
 
 > Sahli, Majed, Essam Mansour, and Panos Kalnis. "ACME: A scalable parallel system for extracting frequent patterns from a very long sequence." The VLDB Journal 23.6 (2014): 871-893.
 
-Aya Taha (2024).
+# IFPS-RPA
+
+> Taha, A., S. A. Mazen, and I. M. A. Helal, "IFPS-RPA: Interface-based Frequent Pattern Segmentation for Robotic Process Automation", 2023 Intelligent Methods, Systems, and Applications (IMSA): IEEE, pp. 610–615, 2023.
 
 ## Prerequisites
 
