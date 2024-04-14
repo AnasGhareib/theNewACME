@@ -12,8 +12,7 @@ This is a reimplementation of the serial execution (not the parallel) (and not r
 
 Download the most recent “library package” and extract its contents.
 
-- [SeqAn](https://packages.seqan.de/) - Source Archives and Packages (2.4.0 works good)
-- put the extracted contets at `/usr/local` so they are available system-wide and automatically found by your program (the method we chose to run SeqAn)
+- [SeqAn](https://packages.seqan.de/) - Source Archives and Packages (2.4.0 works good) put the extracted contets at `/usr/local` so they are available system-wide and automatically found by your program (the method we chose to run SeqAn)
 - Boost via `sudo apt install libboost-all-dev`
 - CMake [for installation](https://cgold.readthedocs.io/en/latest/first-step/installation.html)
 
